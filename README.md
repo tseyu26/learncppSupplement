@@ -1,1 +1,1 @@
-## learn some blind area from learncpp.com
+## learn some blind areas from learncpp.com
