@@ -4,7 +4,7 @@
 #include <iostream>
 
 struct Employee{
-    int id {};
+    int id {}
     int age {};
     double wage {};
 };
